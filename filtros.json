@@ -1,0 +1,49 @@
+{
+  "alertas": [
+    {
+      "nombre": "Fuegos Fantasmales",
+      "palabras": [
+        "fuegos fantasmales",
+        "llamaradas fantasmales",
+        "phantasmal flames"
+      ],
+      "activa": true
+    },
+    {
+      "nombre": "Evoluciones Prismáticas",
+      "palabras": [
+        "evoluciones prismaticas",
+        "prismatic evolutions"
+      ],
+      "activa": true
+    },
+    {
+      "nombre": "Héroes Ascendentes",
+      "palabras": [
+        "heroes ascendentes",
+        "ascenso heroico",
+        "ascended heroes"
+      ],
+      "activa": true
+    },
+    {
+      "nombre": "30 Aniversario",
+      "formatos": [
+        "etb",
+        "booster-bundle"
+      ],
+      "palabras": [
+        "celebracion 30 aniversario"
+      ],
+      "activa": true
+    },
+    {
+      "nombre": "ETB baratas de cualquier colección",
+      "activa": false,
+      "formatos": [
+        "etb"
+      ],
+      "precio_max": 60
+    }
+  ]
+}
