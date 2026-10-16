@@ -38,6 +38,39 @@
       "activa": true
     },
     {
+      "nombre": "Caos Creciente",
+      "palabras": [
+        "caos creciente",
+        "chaos rising"
+      ],
+      "activa": true
+    },
+    {
+      "nombre": "Equilibrio Perfecto",
+      "palabras": [
+        "equilibrio perfecto",
+        "perfect order"
+      ],
+      "activa": true
+    },
+    {
+      "nombre": "Oscuridad Absoluta",
+      "palabras": [
+        "oscuridad absoluta",
+        "pitch black"
+      ],
+      "activa": true
+    },
+    {
+      "nombre": "Juntos de Aventuras",
+      "palabras": [
+        "juntos de aventuras",
+        "aventuras compartidas",
+        "journey together"
+      ],
+      "activa": true
+    },
+    {
       "nombre": "ETB baratas de cualquier colección",
       "activa": false,
       "formatos": [
