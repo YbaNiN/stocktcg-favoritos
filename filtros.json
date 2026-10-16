@@ -43,7 +43,18 @@
         "caos creciente",
         "chaos rising"
       ],
-      "activa": true
+      "activa": true,
+      "formatos": [
+        "etb",
+        "booster-box"
+      ],
+      "excluir": [
+        "18",
+        "case"
+      ],
+      "precio_min_tipo": {
+        "booster-box": 115
+      }
     },
     {
       "nombre": "Equilibrio Perfecto",
@@ -51,7 +62,18 @@
         "equilibrio perfecto",
         "perfect order"
       ],
-      "activa": true
+      "activa": true,
+      "formatos": [
+        "etb",
+        "booster-box"
+      ],
+      "excluir": [
+        "18",
+        "case"
+      ],
+      "precio_min_tipo": {
+        "booster-box": 115
+      }
     },
     {
       "nombre": "Oscuridad Absoluta",
@@ -59,7 +81,18 @@
         "oscuridad absoluta",
         "pitch black"
       ],
-      "activa": true
+      "activa": true,
+      "formatos": [
+        "etb",
+        "booster-box"
+      ],
+      "excluir": [
+        "18",
+        "case"
+      ],
+      "precio_min_tipo": {
+        "booster-box": 115
+      }
     },
     {
       "nombre": "Juntos de Aventuras",
@@ -68,7 +101,18 @@
         "aventuras compartidas",
         "journey together"
       ],
-      "activa": true
+      "activa": true,
+      "formatos": [
+        "etb",
+        "booster-box"
+      ],
+      "excluir": [
+        "18",
+        "case"
+      ],
+      "precio_min_tipo": {
+        "booster-box": 115
+      }
     },
     {
       "nombre": "ETB baratas de cualquier colección",
