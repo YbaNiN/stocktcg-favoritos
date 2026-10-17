@@ -115,6 +115,25 @@
       }
     },
     {
+      "nombre": "Rivales Predestinados",
+      "palabras": [
+        "rivales predestinados",
+        "destined rivals"
+      ],
+      "activa": true,
+      "formatos": [
+        "etb",
+        "booster-box"
+      ],
+      "excluir": [
+        "18",
+        "case"
+      ],
+      "precio_min_tipo": {
+        "booster-box": 115
+      }
+    },
+    {
       "nombre": "ETB baratas de cualquier colección",
       "activa": false,
       "formatos": [
