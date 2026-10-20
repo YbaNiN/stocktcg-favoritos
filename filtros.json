@@ -134,6 +134,26 @@
       }
     },
     {
+      "nombre": "Llamas Obsidianas",
+      "palabras": [
+        "llamas obsidianas",
+        "obsidian flames"
+      ],
+      "activa": true,
+      "formatos": [
+        "etb",
+        "booster-box"
+      ],
+      "excluir": [
+        "18",
+        "case",
+        "flammes"
+      ],
+      "precio_min_tipo": {
+        "booster-box": 115
+      }
+    },
+    {
       "nombre": "ETB baratas de cualquier colección",
       "activa": false,
       "formatos": [
