@@ -10,6 +10,21 @@
       "activa": true
     },
     {
+      "nombre": "UPC Fuegos Fantasmales",
+      "palabras": [
+        "charizard x ultra premium",
+        "megacharizard x ultra premium",
+        "dracaufeu x ultra premium"
+      ],
+      "formatos": [
+        "ultra-premium-collection",
+        "collection-box",
+        "premium-collection",
+        "otros"
+      ],
+      "activa": true
+    },
+    {
       "nombre": "Evoluciones Prismáticas",
       "palabras": [
         "evoluciones prismaticas",
