@@ -211,6 +211,20 @@
       ]
     },
     {
+      "nombre": "Corona Astral",
+      "palabras": [
+        "corona astral",
+        "stellar crown"
+      ],
+      "activa": true,
+      "formatos": [
+        "etb"
+      ],
+      "excluir": [
+        "case"
+      ]
+    },
+    {
       "nombre": "ETB baratas de cualquier colección",
       "activa": false,
       "formatos": [
