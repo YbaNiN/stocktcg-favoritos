@@ -5,22 +5,10 @@
       "palabras": [
         "fuegos fantasmales",
         "llamaradas fantasmales",
-        "phantasmal flames"
-      ],
-      "activa": true
-    },
-    {
-      "nombre": "UPC Fuegos Fantasmales",
-      "palabras": [
+        "phantasmal flames",
         "charizard x ultra premium",
         "megacharizard x ultra premium",
         "dracaufeu x ultra premium"
-      ],
-      "formatos": [
-        "ultra-premium-collection",
-        "collection-box",
-        "premium-collection",
-        "otros"
       ],
       "activa": true
     },
