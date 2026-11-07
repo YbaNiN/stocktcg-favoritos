@@ -197,6 +197,20 @@
       }
     },
     {
+      "nombre": "Mascarada Crepuscular",
+      "palabras": [
+        "mascarada crepuscular",
+        "twilight masquerade"
+      ],
+      "activa": true,
+      "formatos": [
+        "etb"
+      ],
+      "excluir": [
+        "case"
+      ]
+    },
+    {
       "nombre": "ETB baratas de cualquier colección",
       "activa": false,
       "formatos": [
